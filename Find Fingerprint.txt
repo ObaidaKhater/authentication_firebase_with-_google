@@ -1,0 +1,6 @@
+
+
+To Find Fingerprint
+
+
+keytool -list -v -keystore C:\Users\obaida\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
